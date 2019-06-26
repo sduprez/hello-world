@@ -1,6 +1,6 @@
 import numpy as np
 
 def hello():
-    print('HELLO)
+    print('HELLO')
 
 hello()
